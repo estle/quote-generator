@@ -70,7 +70,6 @@ function Error404() {
     loader.hidden = true;
 }
 
-// Tweet Quode
 function tweetQuote() {
     const quote = quoteText.innerText;
     const author = authorText.innerText;
